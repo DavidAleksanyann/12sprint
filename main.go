@@ -22,7 +22,7 @@ type Parcel struct {
 	CreatedAt string
 }
 
-//test
+// test
 type ParcelService struct {
 	store ParcelStore
 }
