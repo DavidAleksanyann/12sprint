@@ -153,7 +153,7 @@ func main() {
 		fmt.Println(err)
 		return
 	}
-
+	//test
 	// регистрация новой посылки
 	p, err = service.Register(client, address)
 	if err != nil {
